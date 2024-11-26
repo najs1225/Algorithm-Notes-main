@@ -1,0 +1,22 @@
+﻿[2024/11/15]
+ㅇ generic 화
+
+ㅇ get
+ㅇ getFirst
+ㅇ getLast
+
+ㅇ add 시 중복체크
+ㅇ add
+ㅇ addFirst
+ㅇ addLast
+
+ㅇ remove (value)
+ㅇ remove (index)
+ㅇ removeFirst
+ㅇ removeLast
+
+ㅇ clear
+
+ㅇ contains
+
+ㅇ size
